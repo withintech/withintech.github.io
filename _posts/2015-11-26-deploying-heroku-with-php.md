@@ -93,13 +93,12 @@ Great now you deployed your project to the heroku . Now if you need to scale or 
 Editor : prashanth varma , information security researcher and white hat hacker .
 Contact me:[prashanthvarmadomma@gmail.com](mailto:prashanthvarmadomma@gmail.com)
 
-<script type="text/javascript">
-    google_ad_client = "ca-pub-6760357694701522";
-    google_ad_slot = "8169854096";
-    google_ad_width = 728;
-    google_ad_height = 90;
-</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- first add -->
-<script type="text/javascript"
-src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6760357694701522"
+     data-ad-slot="8169854096"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
