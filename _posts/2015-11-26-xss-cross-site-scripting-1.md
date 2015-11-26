@@ -14,7 +14,7 @@ now think of `<a>` tag . Commonly known attack is inserting `javascript:alert(do
 ```html
 <a href="javascript:alert(document.cookie)">lol</a>
 ```
-But there are some filters those need an protocol like `{anything}://` . But this one dosen't executes 
+But there are some filters those need an protocol like `{anything}://` . But this one doesn't executes 
 `javascript://alert(document.cookie)` . To bypass this one we need some characters like %0a%0d . Final payload
 
 ```html
