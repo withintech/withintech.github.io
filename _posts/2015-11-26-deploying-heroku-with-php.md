@@ -87,7 +87,7 @@ Finally push it to the heroku
 prashanth$git push heroku master
 ```
 
-Great now you deployed your project to the heroku . Now if you need to scale or get more add-ons . Lets get on to the next tutorial [http://withintech.com/notes/scaling-heroku-with-php](http://withintech.com/notes/scaling-heroku-with-php)
+Great now you deployed your project to the heroku . Now if you need to scale or get more add-ons visit the next tutorial [http://withintech.com/notes/scaling-heroku-with-php](http://withintech.com/notes/scaling-heroku-with-php)
 
 Editor : prashanth varma , information security researcher and white hat hacker .
 Contact me:[prashanthvarmadomma@gmail.com](mailto:prashanthvarmadomma@gmail.com)
