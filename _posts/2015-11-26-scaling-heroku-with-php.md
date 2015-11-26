@@ -73,3 +73,42 @@ There are basically four scalable dyno's
 You select your dyno at [https://dashboard.heroku.com/apps/pramana/resources](https://dashboard.heroku.com/apps/pramana/resources).
 
 ###Setting up mysql with heroku
+
+
+Now you can find addons at [https://elements.heroku.com/addons](https://elements.heroku.com/addons)
+Heroku has only two addon's for mysql
+
+* ClearDB
+* JawsDB
+
+#### ClearDB
+<img src='http://withintech.com/assets/img/heroku2.png'/>
+#### JawsDB
+<img src='http://withintech.com/assets/img/heroku3.png'/>
+
+#### Adding ClearDB and connecting it .
+
+Connecting clearDB with heroku app
+
+```
+heroku addons:create cleardb:ignite
+```
+
+plans for cleardb
+
+<img src='http://withintech.com/assets/img/heroku4.png'/>
+
+#### Adding jawsDB and connecting it
+
+Connecting jawsDB with heroku app
+
+```
+heroku addons:create jawsdb:ignite
+```
+
+plans for jawsdb
+
+<img src='http://withintech.com/assets/img/heroku5.png'/>
+
+please follow next tutorial for connecting google-mysql with heroku app [http://withintech.com/notes/heroku-with-google-mysql](http://withintech.com/notes/heroku-with-google-mysql)
+Editor : prashanth varma , information security researcher and white hat hacker . Contact me:[prashanthvarmadomma@gmail.com](mailto:prashanthvarmadomma@gmail.com)
