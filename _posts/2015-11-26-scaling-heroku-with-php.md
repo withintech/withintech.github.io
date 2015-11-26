@@ -1,7 +1,7 @@
 ---
 title: scaling heroku with php
 updated: 2015-11-26
-tags: scaling,heroku,php,database with php heroku,apache,nginx
+tags: scaling,heroku,php,database with php heroku,apache,nginx,dyno's,mysql ,with heroku
 ---
 
 >Note: make sure that you visited my pervious tutorial of deploying php project to heroku
@@ -57,3 +57,18 @@ Deploying settings to heroku
 ```
 prashanth$git push heroku master
 ```
+
+Now you need to know about dyno's
+
+>Web Dynos: Web dynos are dynos of the “web” process type that is defined in your Procfile. Only web dynos receive HTTP traffic from Heroku’s routers.
+
+You can read more about dyno's at [https://devcenter.heroku.com/articles/dynos](https://devcenter.heroku.com/articles/dynos).
+There are basically four scalable dyno's
+* Free dyno
+* Hobby dyno's prefect for blog . Costs about 7$
+* Standard 1x/2x . Perfect for startups . Costs about 25$
+* Performance -M/L .For high performance  . Costs upto 500$ per single dyno
+
+You select your dyno at [https://dashboard.heroku.com/apps/pramana/resources] (https://dashboard.heroku.com/apps/pramana/resources).
+
+###Setting up mysql with heroku
