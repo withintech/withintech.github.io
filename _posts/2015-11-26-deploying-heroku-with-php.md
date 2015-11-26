@@ -94,11 +94,12 @@ Editor : prashanth varma , information security researcher and white hat hacker 
 Contact me:[prashanthvarmadomma@gmail.com](mailto:prashanthvarmadomma@gmail.com)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- first add -->
+<!-- second ad -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
+     style="display:block"
      data-ad-client="ca-pub-6760357694701522"
-     data-ad-slot="8169854096"></ins>
+     data-ad-slot="5076786892"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
