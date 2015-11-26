@@ -7,7 +7,7 @@ tags: scaling,heroku,php,database with php heroku,apache,nginx,dyno's,mysql ,wit
 >Note: make sure that you visited my pervious tutorial of deploying php project to heroku
 http://withintech.com/notes/deploying-heroku-with-php/
 
-Now if you are done with the deploying the app .Here are somethings that you need to do for medium traffic apps.
+Now if you are done with the deploying the app .Here is something that you need to do for medium traffic apps.
 
 Selecting the servers . Famous servers that run php are Ngnix and apache . If you need flexibility and support from community
 then the apache is best option . If you have to scale your application according to traffic specially with heroku then go with nginx.
