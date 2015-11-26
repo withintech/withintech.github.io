@@ -14,23 +14,25 @@ Enter your app name and you will redirected to the dashboard.
 Before you want to deploy install the heroku toolbelt [https://toolbelt.heroku.com/](https://toolbelt.heroku.com/)
 Make sure that you installed `git` too.
 Lets get started then . Here is the checklist before deploying
-## List Items
 
 1. create a new app
 2. install heroku tool belt
 3. install git command line
 
 log in to your heroku account from terminal
+
 ```
 prashanth$heroku login
 ```
 Now you need to clone the project from heroku if you have to copy source to computer
+
 ```
 prashanth$heroku git:clone -a YOUR_APP_NAME
 ```
 
 Otherwise go to your project source and install composer . Add the `composer.json` file to the main source of project
-```
+
+```json
 {
     "authors": [
         {  }
@@ -56,10 +58,30 @@ Otherwise go to your project source and install composer . Add the `composer.jso
 ```
 After that run this command `php composer.phar install` .
 Now your app is ready for deploying . You need to connect this project resource to the heroku app.
+
 ```
 heroku git:remote -a YOUR_APP_NAME
 ```
 Intiate the git after connecting the resource
+
 ```
 git init
+```
+
+Add files to git 
+
+```
+git add .
+```
+
+Now commit the push to heroku
+
+```
+git commit -am "making better"
+```
+
+Finally push it to the heroku
+
+```
+git push heroku master
 ```
