@@ -60,33 +60,33 @@ After that run this command `php composer.phar install` .
 Now your app is ready for deploying . You need to connect this project resource to the heroku app.
 
 ```
-heroku git:remote -a YOUR_APP_NAME
+prashanth$heroku git:remote -a YOUR_APP_NAME
 ```
 Intiate the git after connecting the resource
 
 ```
-git init
+prashanth$git init
 ```
 
 Add files to git 
 
 ```
-git add .
+prashanth$git add .
 ```
 
 Now commit the push to heroku
 
 ```
-git commit -am "making better"
+prashanth$git commit -am "making better"
 ```
 
 Finally push it to the heroku
 
 ```
-git push heroku master
+prashanth$git push heroku master
 ```
 
-Great now you deployed your project to the heroku . Now if you need to scale or get more add-ons . Lets get on to the next tutorial http://withintech.com/notes/scaling-heroku-with-php
+Great now you deployed your project to the heroku . Now if you need to scale or get more add-ons . Lets get on to the next tutorial [http://withintech.com/notes/scaling-heroku-with-php](http://withintech.com/notes/scaling-heroku-with-php)
 
 Editor : prashanth varma , information security researcher and white hat hacker .
 Contact me:[prashanthvarmadomma@gmail.com](mailto:prashanthvarmadomma@gmail.com)
