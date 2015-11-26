@@ -83,6 +83,7 @@ Heroku has only two addon's for mysql
 
 #### ClearDB
 <img src='http://withintech.com/assets/img/heroku2.png'/>
+
 #### JawsDB
 <img src='http://withintech.com/assets/img/heroku3.png'/>
 
