@@ -42,11 +42,12 @@ with the post request so any url there can catch the csrf token at server side .
 Visit my next article about advanced xss [http://withintech.com/notes/xss-cross-site-scripting-2](http://withintech.com/notes/xss-cross-site-scripting-2)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- mobile ad -->
+<!-- second ad -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
+     style="display:block"
      data-ad-client="ca-pub-6760357694701522"
-     data-ad-slot="9506986493"></ins>
+     data-ad-slot="5076786892"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
