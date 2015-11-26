@@ -1,6 +1,7 @@
 ---
 title: Deploying your php project with heroku 
 updated: 2015-11-26
+tags: heroku,server,startup,deploy,php,reduced cost,php,project
 ---
 >First of all heroku is a cloud platform that lets companies build, deliver, monitor and scale apps .
 
