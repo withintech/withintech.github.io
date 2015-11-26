@@ -8,7 +8,7 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 author_name:        "prashanth varma"
 author_email:       prashanthvarmadomma@gmail.com
 author_gravatar:    
-twitter_username:   prashanthdomma
+twitter_username:   prashanth_scss
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
