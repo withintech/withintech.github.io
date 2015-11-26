@@ -99,6 +99,16 @@ plans for cleardb
 
 <img src='http://withintech.com/assets/img/heroku4.png'/>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mobile ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-6760357694701522"
+     data-ad-slot="9506986493"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 #### Adding jawsDB and connecting it
 
 Connecting jawsDB with heroku app
@@ -113,3 +123,8 @@ plans for jawsdb
 
 please follow next tutorial for connecting google-mysql with heroku app [http://withintech.com/notes/heroku-with-google-mysql](http://withintech.com/notes/heroku-with-google-mysql)
 Editor : prashanth varma , information security researcher and white hat hacker . Contact me:[prashanthvarmadomma@gmail.com](mailto:prashanthvarmadomma@gmail.com)
+
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-6760357694701522"
+     data-ad-slot="9506986493"></ins>
