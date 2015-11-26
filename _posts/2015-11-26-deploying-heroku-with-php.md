@@ -30,7 +30,7 @@ Now you need to clone the project from heroku if you have to copy source to comp
 prashanth$heroku git:clone -a YOUR_APP_NAME
 ```
 
-Otherwise go to your project source and install composer . Add the `composer.json` file to the main source of project
+Otherwise go to your project source and install composer . Add the `composer.json` file to the main source of project.Make sure that your app contains this json data .
 
 ```json
 {
@@ -85,3 +85,8 @@ Finally push it to the heroku
 ```
 git push heroku master
 ```
+
+Great now you deployed your project to the heroku . Now if you need to scale or get more add-ons . Lets get on to the next tutorial http://withintech.com/notes/scaling-heroku-with-php
+
+Editor : prashanth varma , information security researcher and white hat hacker .
+Contact me:[prashanthvarmadomma@gmail.com](mailto:prashanthvarmadomma@gmail.com)
