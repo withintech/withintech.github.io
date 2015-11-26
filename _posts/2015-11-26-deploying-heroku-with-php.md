@@ -8,7 +8,7 @@ There are various programming platforms or stacks that you can run on heroku . N
 
 So we are going to disscus about deploying a php project on to heroku .
 Create an heroku account at heroku.com and visit this url [https://dashboard.heroku.com/new](https://dashboard.heroku.com/new) you will have something like this
-<img src="assets/img/heroku1.png"/>
+<img src="http://withinsecurity.github.io/assets/img/heroku1.png"/>
 
 Enter your app name and you will redirected to the dashboard. 
 Before you want to deploy install the heroku toolbelt [https://toolbelt.heroku.com/](https://toolbelt.heroku.com/)
