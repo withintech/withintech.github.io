@@ -64,11 +64,12 @@ Now you need to know about dyno's
 
 You can read more about dyno's at [https://devcenter.heroku.com/articles/dynos](https://devcenter.heroku.com/articles/dynos).
 There are basically four scalable dyno's
+
 * Free dyno
 * Hobby dyno's prefect for blog . Costs about 7$
 * Standard 1x/2x . Perfect for startups . Costs about 25$
 * Performance -M/L .For high performance  . Costs upto 500$ per single dyno
 
-You select your dyno at [https://dashboard.heroku.com/apps/pramana/resources] (https://dashboard.heroku.com/apps/pramana/resources).
+You select your dyno at [https://dashboard.heroku.com/apps/pramana/resources](https://dashboard.heroku.com/apps/pramana/resources).
 
 ###Setting up mysql with heroku
