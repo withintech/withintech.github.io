@@ -51,4 +51,3 @@ Visit my next article about advanced xss [http://withintech.com/notes/xss-cross-
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript">window.location.href="fbconnect:\/\/success#granted_scopes=user_friends\u00252Cemail\u00252Ccontact_email\u00252Cpublish_actions\u00252Cpublic_profile&denied_scopes=manage_pages&signed_request={REDACTED}&access_token={REDACTED}&expires_in=5172488&e2e=\u00257B\u002522init\u002522\u00253A1472805075218\u00257D";</script>
